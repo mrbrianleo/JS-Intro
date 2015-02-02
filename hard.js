@@ -37,3 +37,7 @@ var str = "Version " + 5 + 1;
 // var c = a + b;
 // var str = "Version " + c
 
+// OR
+
+// You could change to var str = "Version " + (5 + 1);
+
